@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<<<<<<< HEAD
     <device id="retina5_9" orientation="portrait">
+=======
+    <device id="retina4_7" orientation="portrait">
+>>>>>>> e6ae8893c141be6b052e996fa0abcf069bc99295
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -247,6 +251,10 @@
         </scene>
     </scenes>
     <resources>
+<<<<<<< HEAD
+        <image name="wp1823646" width="1920" height="1080"/>
+=======
         <image name="c7aaccc5f9eef531c2abfd0a00735f7027ad0bfc" width="503" height="385"/>
+>>>>>>> 7012e4495aa8148ed73169690034075f9adef70d
     </resources>
 </document>
