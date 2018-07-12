@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		45551B9720F743B500AAA7C9 /* ViewControllerEka.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45551B9620F743B500AAA7C9 /* ViewControllerEka.swift */; };
 		56710B9E20F740D600BA3BE1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56710B9D20F740D600BA3BE1 /* AppDelegate.swift */; };
 		56710BA020F740D600BA3BE1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56710B9F20F740D600BA3BE1 /* ViewController.swift */; };
 		56710BA320F740D600BA3BE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56710BA120F740D600BA3BE1 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		45551B9620F743B500AAA7C9 /* ViewControllerEka.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerEka.swift; sourceTree = "<group>"; };
 		56710B9A20F740D600BA3BE1 /* challengeGIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = challengeGIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56710B9D20F740D600BA3BE1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56710B9F20F740D600BA3BE1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,7 +61,7 @@
 				56710B9D20F740D600BA3BE1 /* AppDelegate.swift */,
 				56710B9F20F740D600BA3BE1 /* ViewController.swift */,
 				56710BA120F740D600BA3BE1 /* Main.storyboard */,
-				5D9DEA4C20F7441E00E26AAA /* MapViewController.swift */,
+				45551B9620F743B500AAA7C9 /* ViewControllerEka.swift */,
 				56710BA420F740D700BA3BE1 /* Assets.xcassets */,
 				56710BA620F740D700BA3BE1 /* LaunchScreen.storyboard */,
 				56710BA920F740D700BA3BE1 /* Info.plist */,
@@ -139,7 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				56710BA020F740D600BA3BE1 /* ViewController.swift in Sources */,
-				5D9DEA4D20F7441E00E26AAA /* MapViewController.swift in Sources */,
+				45551B9720F743B500AAA7C9 /* ViewControllerEka.swift in Sources */,
 				56710B9E20F740D600BA3BE1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

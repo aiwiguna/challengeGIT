@@ -31,6 +31,9 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< .merge_file_p5I8lu
+            <point key="canvasLocation" x="426" y="52"/>
+=======
             <point key="canvasLocation" x="1076" y="133.5832083958021"/>
         </scene>
         <!--View Controller-->
@@ -71,6 +74,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ymI-U2-8Vi" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="278" y="143"/>
+>>>>>>> .merge_file_j06ee4
         </scene>
         <!--Map View Controller-->
         <scene sceneID="OcM-Y7-eCp">
@@ -94,6 +98,9 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4uk-a5-QTd" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< .merge_file_p5I8lu
+            <point key="canvasLocation" x="890" y="134"/>
+=======
             <point key="canvasLocation" x="1822" y="134"/>
         </scene>
         <!--View Controller-->
@@ -200,6 +207,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LqM-1C-8VH" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="836" y="39.90147783251232"/>
+>>>>>>> .merge_file_j06ee4
         </scene>
     </scenes>
     <resources>
