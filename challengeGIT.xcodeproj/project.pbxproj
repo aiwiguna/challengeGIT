@@ -12,6 +12,7 @@
 		56710BA320F740D600BA3BE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56710BA120F740D600BA3BE1 /* Main.storyboard */; };
 		56710BA520F740D700BA3BE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56710BA420F740D700BA3BE1 /* Assets.xcassets */; };
 		56710BA820F740D700BA3BE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56710BA620F740D700BA3BE1 /* LaunchScreen.storyboard */; };
+		5D9DEA4D20F7441E00E26AAA /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9DEA4C20F7441E00E26AAA /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		56710BA420F740D700BA3BE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56710BA720F740D700BA3BE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56710BA920F740D700BA3BE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D9DEA4C20F7441E00E26AAA /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				56710B9D20F740D600BA3BE1 /* AppDelegate.swift */,
 				56710B9F20F740D600BA3BE1 /* ViewController.swift */,
 				56710BA120F740D600BA3BE1 /* Main.storyboard */,
+				5D9DEA4C20F7441E00E26AAA /* MapViewController.swift */,
 				56710BA420F740D700BA3BE1 /* Assets.xcassets */,
 				56710BA620F740D700BA3BE1 /* LaunchScreen.storyboard */,
 				56710BA920F740D700BA3BE1 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				56710BA020F740D600BA3BE1 /* ViewController.swift in Sources */,
+				5D9DEA4D20F7441E00E26AAA /* MapViewController.swift in Sources */,
 				56710B9E20F740D600BA3BE1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -281,7 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = BVU3WW7EVB;
+				DEVELOPMENT_TEAM = W8T5R97US6;
 				INFOPLIST_FILE = challengeGIT/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -299,7 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = BVU3WW7EVB;
+				DEVELOPMENT_TEAM = W8T5R97US6;
 				INFOPLIST_FILE = challengeGIT/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

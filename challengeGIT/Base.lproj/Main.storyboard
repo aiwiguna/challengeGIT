@@ -23,11 +23,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="426" y="52"/>
         </scene>
-        <!--View Controller-->
+        <!--Map View Controller-->
         <scene sceneID="OcM-Y7-eCp">
             <objects>
-                <viewController id="pa3-jT-fWK" sceneMemberID="viewController">
+                <viewController id="pa3-jT-fWK" customClass="MapViewController" customModule="challengeGIT" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="r7w-TT-toX">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -40,10 +41,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="4eI-79-4zW"/>
                     </view>
+                    <connections>
+                        <outlet property="mapView" destination="2XH-TZ-mkn" id="156-rl-uWw"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4uk-a5-QTd" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="925.60000000000002" y="342.27886056971516"/>
+            <point key="canvasLocation" x="890" y="134"/>
         </scene>
     </scenes>
 </document>
