@@ -13,7 +13,7 @@
 		56710BA320F740D600BA3BE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56710BA120F740D600BA3BE1 /* Main.storyboard */; };
 		56710BA520F740D700BA3BE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56710BA420F740D700BA3BE1 /* Assets.xcassets */; };
 		56710BA820F740D700BA3BE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56710BA620F740D700BA3BE1 /* LaunchScreen.storyboard */; };
-		5D9DEA4D20F7441E00E26AAA /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9DEA4C20F7441E00E26AAA /* MapViewController.swift */; };
+		5D9DEA4F20F74B3A00E26AAA /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9DEA4E20F74B3A00E26AAA /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		56710BA420F740D700BA3BE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56710BA720F740D700BA3BE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56710BA920F740D700BA3BE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5D9DEA4C20F7441E00E26AAA /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		5D9DEA4E20F74B3A00E26AAA /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +62,7 @@
 				56710B9F20F740D600BA3BE1 /* ViewController.swift */,
 				56710BA120F740D600BA3BE1 /* Main.storyboard */,
 				45551B9620F743B500AAA7C9 /* ViewControllerEka.swift */,
+				5D9DEA4E20F74B3A00E26AAA /* MapViewController.swift */,
 				56710BA420F740D700BA3BE1 /* Assets.xcassets */,
 				56710BA620F740D700BA3BE1 /* LaunchScreen.storyboard */,
 				56710BA920F740D700BA3BE1 /* Info.plist */,
@@ -143,6 +144,7 @@
 				56710BA020F740D600BA3BE1 /* ViewController.swift in Sources */,
 				45551B9720F743B500AAA7C9 /* ViewControllerEka.swift in Sources */,
 				56710B9E20F740D600BA3BE1 /* AppDelegate.swift in Sources */,
+				5D9DEA4F20F74B3A00E26AAA /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
