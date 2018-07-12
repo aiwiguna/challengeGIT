@@ -33,10 +33,10 @@
             </objects>
             <point key="canvasLocation" x="1076" y="133.5832083958021"/>
         </scene>
-        <!--View Controller-->
+        <!--Meme View Controller-->
         <scene sceneID="kV4-Ir-djd">
             <objects>
-                <viewController id="5ak-fG-POl" sceneMemberID="viewController">
+                <viewController id="5ak-fG-POl" customClass="MemeViewController" customModule="challengeGIT" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tf7-Qy-jq1">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
