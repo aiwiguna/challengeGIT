@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<<<<<<< HEAD
     <device id="retina5_9" orientation="portrait">
+=======
+    <device id="retina4_7" orientation="portrait">
+>>>>>>> e6ae8893c141be6b052e996fa0abcf069bc99295
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -208,6 +212,53 @@
             </objects>
             <point key="canvasLocation" x="836" y="39.90147783251232"/>
 >>>>>>> .merge_file_j06ee4
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Enq-xn-36Q">
+            <objects>
+                <viewController id="bBc-7a-IVB" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="O1i-Xh-9Gn">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="0*fjPfpE48upQRi6QH" translatesAutoresizingMaskIntoConstraints="NO" id="nee-yW-wHa">
+                                <rect key="frame" x="0.0" y="111" width="375" height="217"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ejO-wF-hJE">
+                                <rect key="frame" x="122" y="516" width="131" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="35"/>
+                                <state key="normal" title="Ey B0ss!">
+                                    <color key="titleColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="OCn-Es-XUo" kind="show" id="k5q-IZ-EDR"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="dz1-e6-CpT"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uLA-t5-5pM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="832.79999999999995" y="36.945812807881772"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="jxo-QE-V2o">
+            <objects>
+                <viewController id="OCn-Es-XUo" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="7M6-fU-YC8">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="a4K-4Q-jgM"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WaK-dR-tnJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1633" y="37"/>
         </scene>
     </scenes>
     <resources>
